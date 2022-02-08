@@ -9,8 +9,6 @@ This repository can be used in your project as a foundation for future modificat
 - express: 4.17.2
 - sequelize: 6.14.1
 
-<hr>
-
 ## USING
 
 1. Create some database in your PostgreSQL and get credentials to connect this app with your db.
@@ -18,8 +16,6 @@ This repository can be used in your project as a foundation for future modificat
 3. Use "npm i" to download all dependencies
 4. Create your app with changing source code from this repository
 5. Use "npm run dev" to auto restart app after saving files
-
-<hr>
 
 ## CONTACTS
 
