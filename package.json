@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "Zeph1rr",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^14.3.2",
